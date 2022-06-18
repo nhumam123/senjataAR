@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: 1be28aaea5d4abe408eda86622c56c8f
   - enabled: 1
+    path: Assets/Scenes/about.unity
+    guid: 54a7c696dc4b57b4cbd6bf48ae2b0309
+  - enabled: 1
     path: Assets/Scenes/arCamera.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
